@@ -8,7 +8,7 @@ public class Greeting {
 			System.out.print("🌎 ");
 		}
 		
-		System.out.print("Hello World! ");
+		System.out.print("Hello Humans! ");
 		
 		for(int i = 0; i < 3; i++) {
 			System.out.print("🌎 ");
